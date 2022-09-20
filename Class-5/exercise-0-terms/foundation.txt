@@ -1,0 +1,11 @@
+What are Data Types?
+Data Types are Different Types of Variables
+
+What are Operators used for?
+Operators are used for mathematical and logical functions
+
+What are conditional Statements?
+Conditional statements are ways to tell the computer when to execute code or when it can't
+
+what are loops?
+Loops are code that will repeat any amount of times you tell it to

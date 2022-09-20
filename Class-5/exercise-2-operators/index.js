@@ -1,0 +1,16 @@
+(1+2) = a ;
+console.log (a);
+(1-2) = b ;
+console.log (b);
+(1/2) = c ;
+console.log (c);
+(1*2) = d ;
+console.log (d);
+(1>2) = e ;
+console.log (e);
+(1<2) = f ;
+console.log (f);
+(1===2) = g ;
+console.log (g);
+(1!==2) = h ;
+console.log (h);

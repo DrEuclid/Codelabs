@@ -1,0 +1,6 @@
+What are objects?
+Objects are everything in Javascript, each with other own properites and such.
+What are Functions?
+Functions are code that let you define other code and use that code as much as you want in other parts of your code. 
+What are bulit in methods?
+Bulit in Methods are objects that help handle data more efficently and with less code.
