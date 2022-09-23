@@ -1,0 +1,4 @@
+What is the DOM?
+The DOM is a programming inferface that shows the document as nodes in a tree diagram.
+What are event listeners?
+Event listeners are procedures that wait for an input to occur, as in a click or certain key being pressed

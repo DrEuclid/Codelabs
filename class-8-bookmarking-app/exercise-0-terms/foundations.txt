@@ -1,0 +1,4 @@
+What is Local Storage?
+Local storage is Something that lets web apps store client-side data
+what is API?
+API is a way for Computers to communicate to each other.
