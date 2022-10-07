@@ -8,3 +8,4 @@ function getRandom(min, max) {
   console.log ('Less than or equal to 50')
 else
   console.log ('More than 50')
+  //This is a comment//
