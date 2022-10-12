@@ -1,4 +1,6 @@
+var favoriteColor = ''
+
 function person() {
-favoriteColor =
+    favoriteColor
 }
 
